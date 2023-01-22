@@ -574,3 +574,26 @@
 /* ==============================================
             footer part end
 ================================================= */
+
+/* ==============================================
+            copyright part start
+================================================= */
+#copy-part{
+    padding: 20px 0;
+    background: linear-gradient(270deg, rgba(255, 0, 0, 0.1) 0%, rgba(255, 137, 56, 0.1) 100%);
+}
+#copy-part .container{
+    padding: 0 20px;
+}
+
+#copy-part .container h3{
+    font-family: 'Manrope', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #494949;
+    text-align: center;
+}
+
+/* ==============================================
+            copyright part end
+================================================= */
