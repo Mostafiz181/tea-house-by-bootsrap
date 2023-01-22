@@ -476,3 +476,45 @@
 /* ================================================
             news part end
 =================================================== */
+
+
+/* ===============================================
+            ready part start 
+================================================== */
+#ready-part{
+    padding: 100px 0;
+    background: linear-gradient(270deg, rgba(255, 0, 0, 0.1) 0%, rgba(255, 137, 56, 0.1) 100%);
+}
+#ready-part .container{
+    padding: 0 20px;
+}
+
+#ready-part .container .left .img{
+    margin-top: 130px;
+}
+
+#ready-part .container .middle h3{
+    font-family: 'Manrope', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: #494949;
+    margin-top: 35px;
+
+}
+
+#ready-part .container .right a {
+    display: inline-block;
+    padding: 15px 25px;
+    background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+    font-family: 'Manrope', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-top: 14px;
+}
+
+/* ===============================================
+            ready part end 
+================================================== */
