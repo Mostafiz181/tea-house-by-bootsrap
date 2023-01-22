@@ -518,3 +518,59 @@
 /* ===============================================
             ready part end 
 ================================================== */
+
+/* ==============================================
+            footer part start
+================================================= */
+#footer-part{
+    padding: 100px 0;
+    background: linear-gradient(270deg, rgba(255, 0, 0, 0.1) 0%, rgba(255, 137, 56, 0.1) 100%);
+}
+
+#footer-part .container{
+    padding: 0 20px;
+}
+
+#footer-part .container .footer-item h2{
+    font-family: 'Manrope', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color: #1C1C1C;
+    padding-bottom: 22px;
+    
+
+}
+
+#footer-part .container .footer-item p{
+    font-family: 'Manrope', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #494949;
+
+}
+
+#footer-part .container .footer-item input{
+    border: 0;
+    background: linear-gradient(270deg, rgba(255, 0, 0, 0.1) 0%, rgba(255, 137, 56, 0.1) 100%);
+    padding: 10px 15px;
+    
+}
+
+#footer-part .container .footer-item input::placeholder{
+    font-family: 'Manrope', sans-serif;
+    color: #777777;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+#footer-part .container .footer-item i{
+    margin-right: 20px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+/* ==============================================
+            footer part end
+================================================= */
