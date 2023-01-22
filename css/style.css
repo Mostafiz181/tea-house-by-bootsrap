@@ -383,3 +383,96 @@
 /* ===============================================
             meet part end 
 ================================================== */
+
+
+/* ================================================
+            news part start 
+=================================================== */
+#news-part{
+    padding: 50px 0;
+}
+
+#news-part .container{
+    padding: 0 20px;
+}
+
+#news-part .container .news-title h1{
+    font-family: 'Manrope', sans-serif;
+    font-size: 45px;
+    font-weight: 800;
+    text-align: center;
+    color: #1C1C1C;
+
+}
+
+#news-part .container .news-title p{
+    font-family: 'Manrope', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+    color: #777777;
+    padding-top: 20px;
+    padding-bottom: 50px;
+
+}
+
+#news-part .container .news-item{
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #777777;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+
+#news-part .container .news-item .img{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#news-part .container .news-item h5{
+    font-family: 'Manrope', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #777777;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+#news-part .container .news-item h2{
+    font-family: 'Manrope', sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+    color: #1C1C1C;
+ 
+}
+
+
+#news-part .container .news-item p{
+    font-family: 'Manrope', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    color: #777777;
+    padding: 10px 0;
+ 
+}
+
+
+#news-part .container .news-item h4{
+    font-family: 'Manrope', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    color: #1C1C1C;
+ 
+}
+
+
+
+
+
+/* ================================================
+            news part end
+=================================================== */
