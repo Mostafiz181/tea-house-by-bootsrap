@@ -304,28 +304,28 @@
     
 }
 
-#meet-part .container .meet-item .great-right .box{
+/* #meet-part .container .meet-item .great-right .box{
     width:70%;
     background-color: #fff;
     border-radius: 10px;
     padding: 20px 20px;
-    position: relative;
+    position: absolute;
     
-}
+} */
 
 #meet-part .container .meet-item .great-right {
     position: relative;
-    top: 90px;
-    right: -33px;
+    top: 0;
+    right: 0;
 }
 
-#meet-part .container .meet-item .great-right .card1 {
+/* #meet-part .container .meet-item .great-right .card1 {
     position: absolute;
-    top: -53px;
+    top: 40px;
     right: 128px;
-}
+} */
 
-#meet-part .container .meet-item .great-right .card1::after{
+/* #meet-part .container .meet-item .great-right .card1::after{
     width: 100%;
     height: 100%;
     position: absolute;
@@ -334,22 +334,21 @@
     content: '';
     background-color: #ff000069;
     border-radius: 10px;
-}
+} */
 
-#meet-part .container .meet-item .great-right .card2 {
+/* #meet-part .container .meet-item .great-right .card2 {
     position: absolute;
-    bottom: -368px;
+    bottom: -456px;
     right: 128px;
 }
 
 #meet-part .container .meet-item .great-right .card3 {
     position: absolute;
-    bottom: -229px;
+    bottom: -341px;
     right: 200px;
+} */
 
-}
-
-#meet-part .container .meet-item .great-right .card2::after{
+/* #meet-part .container .meet-item .great-right .card2::after{
     width: 100%;
     height: 100%;
     position: absolute;
@@ -358,9 +357,9 @@
     content: '';
     background-color: #ff000069;
     border-radius: 10px;
-}
+} */
 
-#meet-part .container .meet-item .great-right .box .inner-box {
+/* #meet-part .container .meet-item .great-right .box .inner-box {
     width: 60px;
     height: 60px;
     border-radius: 50%;
@@ -368,9 +367,9 @@
     position: absolute;
     top: -40px;
     left: -30px;
-}
+} */
 
-#meet-part .container .meet-item .great-right .box p{
+/* #meet-part .container .meet-item .great-right .box p{
     font-family: 'Manrope', sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -387,7 +386,7 @@
     font-size: 16px;
     font-weight: 700;
     color: #1C1C1C;
-}
+} */
 
 /* ===============================================
             meet part end 
