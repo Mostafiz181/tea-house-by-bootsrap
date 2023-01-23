@@ -1,0 +1,180 @@
+@media only screen and (max-width:576px) {
+
+    #banner-part .text h1 {
+        font-size: 34px;
+        margin-top: 0px;
+    }
+
+    #banner-part .text p {
+        font-size: 14px;
+        line-height: 21px;
+        padding: 2px 0;
+    }
+
+
+    #banner-part .img {
+        padding-top: 25px;
+
+    }
+
+
+    #banner-part .box {
+        width: 213px;
+        bottom: -18px;
+        left: 21px;
+
+    }
+
+    #product-part .product-title h1 {
+        font-size: 32px;
+        text-align: left;
+        margin-top: 31px;
+    }
+
+    #product-part .product-title p {
+        font-size: 14px;
+        line-height: 22px;
+        text-align: left;
+        padding: 0;
+    }
+
+    #great-part .container .great-title h1 {
+        font-size: 25px;
+        margin-top: 20px;
+    }
+
+    #great-part .container .great-title p {
+        font-size: 14px;
+        line-height: 20px;
+        margin-top: 0px;
+        margin-bottom: 10px;
+
+    }
+
+    #meet-part {
+        padding: 10px 0;
+    }
+
+    #meet-part .container .meet-item .text {
+        padding-left: 10px;
+        padding-top: 0px;
+    }
+
+    #meet-part .container .meet-item .text h1 {
+        font-size: 25px;
+        margin-top: 30px;
+    }
+
+    #meet-part .container .meet-item .text p {
+        font-size: 14px;
+        line-height: 21px;
+        padding-top: 7px;
+        padding-bottom: 14px;
+        text-align: left;
+    }
+
+    #meet-part .container .meet-item .great-right .card1 {
+        top: -75px;
+        right: -23px;
+    }
+
+    #meet-part .container .meet-item .great-right .card2 {
+        bottom: 31px;
+        right: -22px;
+    }
+
+    #meet-part .container .meet-item .great-right .card3 {
+        bottom: 455px;
+        right: 12px;
+    }
+
+    #meet-part .container .meet-item .great-right .box .inner-box {
+        top: -34px;
+        left: -17px;
+    }
+
+    #meet-part .container .meet-item {
+        padding: 0px 0;
+    }
+
+    #news-part .container .news-title h1 {
+        font-size: 36px;
+        margin-top: -45px;
+    }
+
+    #news-part .container .news-title p {
+        font-size: 14px;
+        text-align: left;
+        padding-top: 20px;
+        margin-top: -23px;
+        padding-bottom: 8px;
+    }
+
+    #news-part .container .news-item h5 {
+        font-size: 14px;
+        padding-top: 10px;
+        padding-bottom: 0px;
+    }
+
+    #news-part .container .news-item h2 {
+        font-size: 18px;
+    }
+
+    #news-part .container .news-item p {
+        font-size: 14px;
+        line-height: 21px;
+        padding: 1px 0;
+    }
+
+    #ready-part .left{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #ready-part .middle{
+        text-align: center;
+        font-size: 15px;
+    }
+
+    #ready-part .right{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #footer-part {
+        padding: 0px 0;
+    }
+
+    #footer-part .container .footer-item h2 {
+        padding-bottom: 0px;
+        text-align: center;
+    }
+
+    #footer-part .container .footer-item p {
+        font-size: 14px;
+        line-height: 10px;
+        text-align: center;
+    }
+
+    #footer-part .container .footer-item input {
+        margin-left: 20px;
+    }
+
+    #footer-part .container .footer-item i {
+        margin-right: -10px;
+        padding: 0 30px;
+    }
+
+    #copy-part .container h3 {
+        font-size: 14px;
+    }
+
+
+
+
+
+
+    /*==================================  */
+}
