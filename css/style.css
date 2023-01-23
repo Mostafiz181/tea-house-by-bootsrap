@@ -320,9 +320,9 @@
 }
 
 #meet-part .container .meet-item .great-right .card1 {
-    position: relative;
-    top: 10px;
-    right: -60px;
+    position: absolute;
+    top: -53px;
+    right: 128px;
 }
 
 #meet-part .container .meet-item .great-right .card1::after{
@@ -337,15 +337,16 @@
 }
 
 #meet-part .container .meet-item .great-right .card2 {
-    position: relative;
-    bottom: -40px;
-    right: -60px;
+    position: absolute;
+    bottom: -368px;
+    right: 128px;
 }
 
 #meet-part .container .meet-item .great-right .card3 {
-    position: relative;
-    bottom: 325px;
-    right: -10px;
+    position: absolute;
+    bottom: -229px;
+    right: 200px;
+
 }
 
 #meet-part .container .meet-item .great-right .card2::after{
